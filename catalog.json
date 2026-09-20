@@ -1,0 +1,151 @@
+{
+  "name": "ai-skills-collection",
+  "snapshotDate": "2026-09-20",
+  "count": 16,
+  "skills": [
+    {
+      "name": "write-natural-chinese",
+      "title": "自然中文创作",
+      "description": "从选题、研究、观点辩论到写作、配图与复审",
+      "category": "personal",
+      "license": "MIT",
+      "path": "skills/write-natural-chinese",
+      "upstream": null
+    },
+    {
+      "name": "map-user-journey",
+      "title": "用户旅程梳理",
+      "description": "基于页面和截图重建产品用户旅程",
+      "category": "personal",
+      "license": "MIT",
+      "path": "skills/map-user-journey",
+      "upstream": null
+    },
+    {
+      "name": "map-agent-contracts",
+      "title": "Agent 契约梳理",
+      "description": "分析输入输出、工具、上下文和协作交接",
+      "category": "personal",
+      "license": "MIT",
+      "path": "skills/map-agent-contracts",
+      "upstream": null
+    },
+    {
+      "name": "rebuild-agent-prompt",
+      "title": "Agent 提示词还原",
+      "description": "重建可追溯的功能等价提示词",
+      "category": "personal",
+      "license": "MIT",
+      "path": "skills/rebuild-agent-prompt",
+      "upstream": null
+    },
+    {
+      "name": "map-product-architecture",
+      "title": "产品架构梳理",
+      "description": "整理 Agent、工具、上下文、资产和状态",
+      "category": "personal",
+      "license": "MIT",
+      "path": "skills/map-product-architecture",
+      "upstream": null
+    },
+    {
+      "name": "reverse-ai-product",
+      "title": "AI 产品逆向",
+      "description": "串联四份产品拆解报告的完整流程",
+      "category": "personal",
+      "license": "MIT",
+      "path": "skills/reverse-ai-product",
+      "upstream": null
+    },
+    {
+      "name": "github-publish",
+      "title": "GitHub 发布",
+      "description": "利用已有浏览器登录会话发布并核对文件",
+      "category": "personal",
+      "license": "MIT",
+      "path": "skills/github-publish",
+      "upstream": null
+    },
+    {
+      "name": "doubao-geo-publisher",
+      "title": "豆包 GEO 工作流",
+      "description": "客户诊断、内容规划、发布素材和效果复盘",
+      "category": "geo",
+      "license": "NOASSERTION",
+      "path": "skills/doubao-geo-publisher",
+      "upstream": null
+    },
+    {
+      "name": "geo-keyword-miner",
+      "title": "GEO 关键词挖掘",
+      "description": "客户资料转关键词、意图和优先级",
+      "category": "geo",
+      "license": "NOASSERTION",
+      "path": "skills/geo-keyword-miner",
+      "upstream": null
+    },
+    {
+      "name": "geo-article-writer",
+      "title": "GEO 文章写作",
+      "description": "基于客户资料和证据生成文章",
+      "category": "geo",
+      "license": "NOASSERTION",
+      "path": "skills/geo-article-writer",
+      "upstream": null
+    },
+    {
+      "name": "geo-platform-adapter",
+      "title": "多平台内容适配",
+      "description": "头条、搜狐、知乎等平台版本改写",
+      "category": "geo",
+      "license": "NOASSERTION",
+      "path": "skills/geo-platform-adapter",
+      "upstream": null
+    },
+    {
+      "name": "geo-doubao-research",
+      "title": "豆包搜索研究",
+      "description": "发布前后诊断、引用追踪和竞品信源分析",
+      "category": "geo",
+      "license": "NOASSERTION",
+      "path": "skills/geo-doubao-research",
+      "upstream": null
+    },
+    {
+      "name": "agent-reach",
+      "title": "互联网搜索与读取",
+      "description": "多平台搜索与内容读取路由",
+      "category": "third-party",
+      "license": "MIT",
+      "path": "skills/agent-reach",
+      "upstream": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "name": "humanize-chinese",
+      "title": "中文去 AI 味",
+      "description": "去除翻译腔、机械表达和模板化文风",
+      "category": "third-party",
+      "license": "MIT",
+      "path": "skills/humanize-chinese",
+      "upstream": "https://github.com/ai-zixun/humanizer-zh"
+    },
+    {
+      "name": "frontend-slides-editable",
+      "title": "可编辑 HTML 幻灯片",
+      "description": "生成可在浏览器中编辑的演示文稿",
+      "category": "third-party",
+      "license": "MIT",
+      "path": "skills/frontend-slides-editable",
+      "upstream": "https://github.com/archlizheng/frontend-slides-editable"
+    },
+    {
+      "name": "codex-memory-guard",
+      "title": "Codex 记忆管理",
+      "description": "任务边界、关键决策和压缩后恢复",
+      "category": "third-party",
+      "license": "MIT",
+      "path": "skills/codex-memory-guard",
+      "upstream": "https://github.com/wl1650918245/codex-memory-guard"
+    }
+  ]
+}

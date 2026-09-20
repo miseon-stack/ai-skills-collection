@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品架构梳理"
+  short_description: "将功能、Agent、工具、上下文、模型与资产还原为全景架构"
+  default_prompt: "Use $map-product-architecture to build an evidence-tiered AI product architecture HTML."

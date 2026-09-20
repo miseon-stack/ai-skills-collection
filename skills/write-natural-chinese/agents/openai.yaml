@@ -1,0 +1,8 @@
+interface:
+  display_name: "自然中文创作"
+  short_description: "陪你从想法搜索辩论到配图、自审和按月日保存中文成稿"
+  default_prompt: "使用 $write-natural-chinese，沿着我的想法完成搜索、辩论、写作和四项复审，再按月日保存最终稿。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

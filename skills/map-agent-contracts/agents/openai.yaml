@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 契约梳理"
+  short_description: "识别真实 Agent 并还原输入、工具、状态与交接契约"
+  default_prompt: "Use $map-agent-contracts to derive evidence-based Agent I/O contracts and an HTML report."

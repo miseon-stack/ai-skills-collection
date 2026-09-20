@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 发布"
+  short_description: "复用已登录 GitHub 网页会话安全发布本地 Skill"
+  default_prompt: "$github-publish 使用我已经登录的 GitHub 网页会话，将指定的本地 Skill 安全发布到仓库并核对文件。"

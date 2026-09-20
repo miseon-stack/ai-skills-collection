@@ -1,0 +1,4 @@
+interface:
+  display_name: "用户旅程梳理"
+  short_description: "基于页面、聊天、画布与资产证据还原完整用户旅程"
+  default_prompt: "Use $map-user-journey to inspect these product screenshots and produce an evidence-based user journey HTML."

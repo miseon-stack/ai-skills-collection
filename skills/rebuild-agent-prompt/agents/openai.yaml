@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 提示词还原"
+  short_description: "基于行为证据编写可追溯的功能等价 System Prompt"
+  default_prompt: "Use $rebuild-agent-prompt to create a functional-equivalent System Prompt for the selected Agent."
